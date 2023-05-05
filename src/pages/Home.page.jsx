@@ -11,9 +11,9 @@ import PosterSlider from "../components/PosterSlider/PosterSlider.Component";
 import EntertainmentCard from "../components/Entertainment/EntertainmentCard.Component";
 
 const HomePage = () => {
-    const[recommendedMovies, setRecommendedMovies]=useState([]);
+    const [recommendedMovies, setRecommendedMovies]=useState([]);
     const [premierMovies, setPremierMovies]=useState([]);
-    const[onlineStreamEvents, setOnlineStreamEvents]=useState([]);
+    const [onlineStreamEvents, setOnlineStreamEvents]=useState([]);
 
     return (
       <>
