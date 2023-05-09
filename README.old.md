@@ -26,3 +26,8 @@ Components:
     >>PosterSlider      PosterSlider.Component.jsx
 
 npx create-raect-app .
+
+
+
+
+https://api.themoviedb.org/3/movie/550?api_key=a06068cd9801d0e26db9386a18ed1621
